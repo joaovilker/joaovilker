@@ -27,7 +27,7 @@
 
   <a href="https://github.com/joaovilker" alt="Github">
   <img src="https://img.shields.io/badge/--_GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-
+  <br>
   <a href="https://www.instagram.com/joao.vilker/" alt="Instagram">
   <img src="https://img.shields.io/badge/--_Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 
